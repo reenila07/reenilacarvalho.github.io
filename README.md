@@ -19,11 +19,6 @@ Welcome to my personal data analytics portfolio! I'm a recent graduate with hand
 
 ---
 
-## 📄 Resume
-You can download my resume here:  
-[📥 Reenila_Carvalho_Resume.pdf](./Reenila_Carvalho_Resume.pdf)
-
----
 
 ## 🎓 Certifications
 - Microsoft Certified: Power BI Data Analyst Associate (2025)
