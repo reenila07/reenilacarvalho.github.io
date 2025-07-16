@@ -1,7 +1,8 @@
 
 # 👩‍💻 Reenila Carvalho – Data Analytics Portfolio
 
-Welcome to my personal data analytics portfolio! I'm a recent graduate with hands-on experience in Power BI, Excel, SQL, and Python. This portfolio showcases some of the projects I’ve worked on using real-world datasets and tools to turn raw data into actionable insights.
+Hi there!
+I'm a data enthusiast with hands-on experience in Power BI, Excel, SQL, and Python. Here you'll find a selection of real-world projects where I’ve turned complex data into clear, actionable insights.Welcome to my personal data analytics portfolio! I'm a recent graduate with hands-on experience in Power BI, Excel, SQL, and Python. This portfolio showcases some of the projects I’ve worked on using real-world datasets and tools to turn raw data into actionable insights.
 
 ---
 
